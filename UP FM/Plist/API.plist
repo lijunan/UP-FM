@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>subject</key>
+	<dict>
+		<key>downloadadd</key>
+		<string>update_download</string>
+		<key>detail</key>
+		<string>detail_subject</string>
+		<key>addplaysum</key>
+		<string>update_listen</string>
+		<key>goodlist</key>
+		<string>list_praise</string>
+		<key>goodadd</key>
+		<string>update_praise</string>
+	</dict>
+	<key>adv</key>
+	<dict>
+		<key>home</key>
+		<string>home</string>
+	</dict>
+	<key>search</key>
+	<string>program</string>
+	<key>program</key>
+	<dict>
+		<key>subjectlist</key>
+		<string>list_subject</string>
+		<key>orderlist</key>
+		<string>my_orders</string>
+		<key>order</key>
+		<string>order</string>
+		<key>detail</key>
+		<string>detail_program</string>
+		<key>list</key>
+		<string>list_program</string>
+	</dict>
+	<key>isPublic</key>
+	<string>y</string>
+	<key>column</key>
+	<dict>
+		<key>list</key>
+		<string>list</string>
+	</dict>
+	<key>private</key>
+	<string>http://192.168.1.104/test</string>
+	<key>public</key>
+	<string>http://120.24.231.13:7090/ra</string>
+	<key>user</key>
+	<dict>
+		<key>login</key>
+		<string>login</string>
+		<key>updateinfo</key>
+		<string>modify</string>
+		<key>regfiel</key>
+		<string>reg_upload</string>
+		<key>reg</key>
+		<string>reg</string>
+		<key>anonymous</key>
+		<string>reg_anonymous</string>
+	</dict>
+</dict>
+</plist>
